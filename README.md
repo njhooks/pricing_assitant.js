@@ -1,1 +1,1 @@
-# pricing_assitant.js
+Hello, this is a pricing assistant tool.
